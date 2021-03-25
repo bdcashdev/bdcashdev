@@ -1,12 +1,14 @@
 ### Hi there, I'm [bdcashdev!](https://github.com/bdcashdev) 👋  ![](https://komarev.com/ghpvc/?username=bdcashdev&color=green)
 
-<code><img align="left" alt="Fabianno picture" width="100px" src="https://raw.githubusercontent.com/bdcashdev/bdcashdev/master/assets/dev.png" /></code>
+<img align="left" alt="Fabianno picture" width="300px" src="https://raw.githubusercontent.com/bdcashdev/bdcashdev/master/assets/dev.png" /></br >
+
 
 </br >
-</br >
 
+</br >
 
 **Social Network:**  
+</br >
 
 <a href="https://twitter.com/LimmaFabianno">
   <img align="left" alt="Fabianno Twitter | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
