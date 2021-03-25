@@ -1,12 +1,18 @@
 ### Hi there, I'm [bdcashdev!](https://github.com/bdcashdev) 👋  ![](https://komarev.com/ghpvc/?username=bdcashdev&color=green)
 
+<code><img align="left" alt="Fabianno picture" width="100px" src="https://raw.githubusercontent.com/bdcashdev/bdcashdev/master/assets/dev.png" /></code>
+
+</br >
+</br >
+
+
 **Social Network:**  
 
 <a href="https://twitter.com/LimmaFabianno">
-  <img align="left" alt="Anurag Hazra | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Fabianno Twitter | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/rrr8vFS">
-  <img align="left" alt="Anurag's Discord" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="BDCASH Discord" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 </br >
 </br >
@@ -16,7 +22,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="50"  src="https://raw.githubusercontent.com/bdcashdev/bdcashdev/master/assets/php.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
