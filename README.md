@@ -2,7 +2,7 @@
 
 **Social Network:**  
 
-<a href="https://twitter.com/fabiannolimma">
+<a href="https://twitter.com/LimmaFabianno">
   <img align="left" alt="Anurag Hazra | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/rrr8vFS">
