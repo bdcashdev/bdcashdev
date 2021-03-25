@@ -9,8 +9,6 @@
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
-<code><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"></code>
-<code><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"></code>
 
 
 <a href="https://github.com/bdcashdev/github-readme-stats">
