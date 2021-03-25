@@ -1,6 +1,16 @@
 ### Hi there, I'm [bdcashdev!](https://bdcashdev.github.io) 👋
 
 ![](https://komarev.com/ghpvc/?username=bdcashdev&color=green)
+**Social Network:**  
+
+<a href="https://twitter.com/fabiannolimma">
+  <img align="left" alt="Anurag Hazra | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/rrr8vFS">
+  <img align="left" alt="Anurag's Discord" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+</br >
+</br >
 
 **Languages and Tools:**  
 
