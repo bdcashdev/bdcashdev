@@ -13,10 +13,10 @@
 <code><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png"></code>
 
 
-<a href="https://github.com/MotoAcidic/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MotoAcidic&show_icons=true&include_all_commits=true&theme=radical" alt="MotoAcidcic's github stats" />
+<a href="https://github.com/bdcashdev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bdcashdev&show_icons=true&include_all_commits=true&theme=radical" alt="MotoAcidcic's github stats" />
 </a>
-<a href="https://github.com/MotoAcidic/github-readme-stats">
+<a href="https://github.com/bdcashdev/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotoAcidic&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdcashdev&layout=compact&theme=radical" />
 </a>
