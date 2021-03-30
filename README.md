@@ -29,9 +29,7 @@
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="50"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
-
-</br >
-</br >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdcashdev" alt="bdcashdev" /></a> </p>
 <a href="https://github.com/bdcashdev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bdcashdev&show_icons=true&include_all_commits=true&theme=radical" alt="MotoAcidcic's github stats" />
 </a>
